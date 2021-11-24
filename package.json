@@ -1,0 +1,30 @@
+{
+  "name": "cointool-doc",
+  "version": "1.0.0",
+  "description": "CoinTool docs",
+  "main": "index.js",
+  "scripts": {
+    "predeploy":"gitbook build",
+    "deploy":"gh-pages -d _book"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gitbook-plugin-back-to-top-button": "^0.1.4",
+    "gitbook-plugin-donate": "^1.0.2",
+    "gitbook-plugin-favicon": "^0.0.2",
+    "gitbook-plugin-hide-element": "^0.0.4",
+    "gitbook-plugin-insert-logo": "^0.1.5",
+    "gitbook-plugin-lightbox": "^1.2.0",
+    "gitbook-plugin-sharing-plus": "^0.0.2",
+    "gitbook-plugin-splitter": "^0.0.8",
+    "gitbook-plugin-tbfed-pagefooter": "^0.0.1",
+    "gitbook-plugin-theme-fexa": "^1.0.6",
+    "gitbook-plugin-theme-seer": "^1.0.8",
+    "gitbook-plugin-zealar": "^1.0.3"
+  },
+  "homepage":"https://cointool-app.github.io/docs",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
