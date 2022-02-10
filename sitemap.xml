@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://cointool-app.github.io/docs/</loc>
+  <lastmod>2022-02-10T11:15:45+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://cointool-app.github.io/docs/about/tool-description.html</loc>
+  <lastmod>2022-02-10T11:15:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cointool-app.github.io/docs/about/contact.html</loc>
+  <lastmod>2022-02-10T11:15:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cointool-app.github.io/docs/createToken/how-to-create-token.html</loc>
+  <lastmod>2022-02-10T11:15:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cointool-app.github.io/docs/createToken/is-safe.html</loc>
+  <lastmod>2022-02-10T11:15:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cointool-app.github.io/docs/createToken/configuration-instructions.html</loc>
+  <lastmod>2022-02-10T11:15:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cointool-app.github.io/docs/createToken/support-wallet.html</loc>
+  <lastmod>2022-02-10T11:15:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cointool-app.github.io/docs/createToken/network-supports.html</loc>
+  <lastmod>2022-02-10T11:15:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cointool-app.github.io/docs/manageToken/how-to-manage-token.html</loc>
+  <lastmod>2022-02-10T11:15:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cointool-app.github.io/docs/manageToken/burn.html</loc>
+  <lastmod>2022-02-10T11:15:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cointool-app.github.io/docs/manageToken/mint.html</loc>
+  <lastmod>2022-02-10T11:15:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cointool-app.github.io/docs/manageToken/pause.html</loc>
+  <lastmod>2022-02-10T11:15:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cointool-app.github.io/docs/manageToken/blacklist.html</loc>
+  <lastmod>2022-02-10T11:15:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cointool-app.github.io/docs/.</loc>
+  <lastmod>2022-02-10T11:15:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
